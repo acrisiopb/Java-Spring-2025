@@ -31,7 +31,10 @@ public class Game implements Serializable {
     private String platforms;
     private String score;
     private String imgUrl;
+
+    @Column(columnDefinition = "TEXT")
     private String shortDescription;
+    @Column(columnDefinition = "TEXT") // definir a coluna do banco comoo tipo Text
     private String longDescription;
 
 }
