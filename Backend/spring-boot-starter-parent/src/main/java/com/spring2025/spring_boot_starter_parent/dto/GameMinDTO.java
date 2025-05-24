@@ -15,7 +15,7 @@ import lombok.*;
 public class GameMinDTO {
     private Long id;
     private String title;
-    private String year;
+    private Integer year;
     private String imgUrl;
     private String shortDescription;
 
@@ -32,7 +32,7 @@ public class GameMinDTO {
         id = projection.getId();
         title = projection.getTitle();
         imgUrl = projection.getImgurl();
-        year = projection.getImgurl();
+        year = projection.getGameYear();
         shortDescription = projection.getShortDescription();
     }
 

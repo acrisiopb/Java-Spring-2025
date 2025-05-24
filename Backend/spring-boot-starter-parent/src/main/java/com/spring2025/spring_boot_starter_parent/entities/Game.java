@@ -26,7 +26,7 @@ public class Game implements Serializable {
     private String title;
 
     @Column(name = "game_year") // customizando nome no banco
-    private String year;
+    private Integer year;
     private String genre;
     private String platforms;
     private String score;
