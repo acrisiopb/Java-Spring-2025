@@ -1,7 +1,7 @@
 # Projeto DSList - Intensivão Java Spring
 
 ## Postman
-<img href="https://github.com/acrisiopb/Java-Spring-2025/blob/main/DSLIST.png"/>
+<img src="https://github.com/acrisiopb/Java-Spring-2025/blob/main/DSLIST.png" alt="Requisição POSTMAN" align="center"/>
 
 <br/>
 
