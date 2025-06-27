@@ -1,5 +1,10 @@
 # Projeto DSList - Intensivão Java Spring
 
+## Postman
+<img href="https://github.com/acrisiopb/Java-Spring-2025/blob/main/DSLIST.png"/>
+
+<br/>
+
 ## Modelo de domínio DSList
 
 ![Modelo de domínio DSList](https://raw.githubusercontent.com/devsuperior/java-spring-dslist/main/resources/dslist-model.png)
